@@ -24,6 +24,7 @@ This repository contains unofficial implementation of DCGAN that is introduced i
 ## YouTube Tutorial
 This repository also contains a corresponding YouTube tutorial with the title: 
 <br>
+<br>
 **Implement and Train DCGAN From Scratch for Image Generation - PyTorch**
 
 <p align="center">
