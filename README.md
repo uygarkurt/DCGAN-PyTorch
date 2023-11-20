@@ -22,7 +22,7 @@
 This repository contains unofficial implementation of DCGAN that is introduced in the paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) using PyTorch. Implementation has tested using the [CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) for image generation task.
 
 ### YouTube Tutorial
-This repository also contains a corresponding YouTube tutorial with the title: <p style="color:red">Implement and Train DCGAN From Scratch for Image Generation - PyTorch</p>
+This repository also contains a corresponding YouTube tutorial with the title: <p style="color:red;">Implement and Train DCGAN From Scratch for Image Generation - PyTorch</p>
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=1zeIBTcmF_s">
