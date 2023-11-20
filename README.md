@@ -3,7 +3,11 @@
 <div align="center">
     <a href="">
         <img alt="open-source-image"
-		src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+		src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F_Open_Source-%2350C878?style=for-the-badge">
+    </a>
+    <a href="https://www.youtube.com/watch?v=1zeIBTcmF_s">
+        <img alt="youtube-tutorial"
+        src="https://img.shields.io/badge/YouTube_Tutorial-grey?style=for-the-badge&logo=YouTube&logoColor=%23FF0000">
     </a>
 </div>
 <br/>
