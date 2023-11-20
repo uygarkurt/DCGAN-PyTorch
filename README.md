@@ -26,7 +26,7 @@ This repository also contains a corresponding YouTube tutorial with the title **
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=1zeIBTcmF_s">
-    <img src="./assets/thumbnail.png" height="70%" widht="70%"/>
+    <img src="./assets/thumbnail.png" height="70%" width="70%"/>
 </a>
 
 ## Table of Contents
