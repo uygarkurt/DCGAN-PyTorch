@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/Generator.png" height="70%" width="70%"/>
+  <img src="./assets/Generator.jpeg" height="70%" width="70%"/>
 </p>
 
 This repository contains unofficial implementation of DCGAN that is introduced in the paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) using PyTorch. Implementation has tested using the [CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) for image generation task.
