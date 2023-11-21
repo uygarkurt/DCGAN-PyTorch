@@ -191,7 +191,7 @@ stop = timeit.default_timer()
 print(f"Training Time: {stop-start:.2f}s")
 ```
 
-## Inference <a class="anchor" id="inference></a>
+## Inference <a class="anchor" id="inference"></a>
 
 ```
 noise = torch.randn(dummy_labels.size()[0], INPUT_VECTOR_DIM, 1, 1).to(device)
