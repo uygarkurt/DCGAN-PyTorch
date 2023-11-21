@@ -22,15 +22,14 @@
 This repository contains unofficial implementation of DCGAN that is introduced in the paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) using PyTorch. Implementation has tested using the [CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) for image generation task.
 
 ## YouTube Tutorial
-This repository also contains a corresponding YouTube tutorial with the title: 
-<br>
-<br>
-**Implement and Train DCGAN From Scratch for Image Generation - PyTorch**
-
-<p align="center">
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=1zeIBTcmF_s">Implement and Train DCGAN From Scratch for Image Generation - PyTorch</a>
+    <br>
+    <br>
     <a href="https://www.youtube.com/watch?v=1zeIBTcmF_s">
-    <img src="./assets/thumbnail.png" height="85%" width="85%%"/>
-</a>
+        <img src="./assets/thumbnail.png" height="85%" width="85%%"/>
+    </a>
+</div>
 
 ## Table of Contents
 * [DCGAN Implementation](#dcganimp)
@@ -41,7 +40,7 @@ This repository also contains a corresponding YouTube tutorial with the title:
 * [Contact](#contact)
 
 ## DCGAN Implementation <a class="anchor" id="dcganimp"></a>
-We need two classes to implement ViT. First is the `Discriminator` to classify an image as real or fake, second is the `Generator` to generate an image.
+We need two classes to implement ViT. First is the `Discriminator` to classify an image as real or fake. Second is the `Generator` to generate an image.
 
 
 ### ViT <a class="anchor" id="discriminator">
