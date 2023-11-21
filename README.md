@@ -36,6 +36,7 @@ This repository contains unofficial implementation of DCGAN that is introduced i
     * [Discriminator](#discriminator)
     * [Generator](#generator)
 * [Train Loop](#trainloop)
+* [Inference](#inference)
 * [Usage](#usage)
 * [Contact](#contact)
 
@@ -188,6 +189,14 @@ for epoch in tqdm(range(EPOCHS), position=0, leave=True):
     
 stop = timeit.default_timer()
 print(f"Training Time: {stop-start:.2f}s")
+```
+
+## Inference <a class="anchor" id="inference></a>
+```
+noise = torch.randn(dummy_labels.size()[0], INPUT_VECTOR_DIM, 1, 1).to(device)
+generator_fake_out = generator(noise)
+
+plt.imshow(generator_fake_out[5].detach().cpu().permute(1, 2, 0))
 ```
 
 ## Usage <a class="anchor" id="usage"></a>
